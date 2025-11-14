@@ -2,3 +2,11 @@
 - Geração de ordens de serviço do setor de manutenção (mecânica e elétrica);
 - Acompanhamento de ordens de serviço em aberto;
 - Garantia de um histórico dos atendimentos por setor;
+
+** TAREFAS A SEREM REALIZADAS **
+- Criação do banco de dados;
+- Criação do diagrama/fluxograma da sequência de uso;
+
+** TECNOLOGIAS UTILIZADAS **
+- MYSQL
+- JS (node)
